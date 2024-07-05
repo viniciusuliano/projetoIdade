@@ -11,7 +11,7 @@ function App() {
       alert('Digite um número maior que zero')
     }else{
       
-    let calcular = 2024 - idade
+    const calcular = 2024 - idade
     setCalculo(calcular)
     }
   } 
